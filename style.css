@@ -18,5 +18,5 @@ article .meta{color:var(--muted);font-family:system-ui,Segoe UI,sans-serif;font-
 .cta img{width:200px;border-radius:8px}.cta .t{flex:1;min-width:220px}.cta h3{margin:0 0 6px}.search{position:relative;flex:1;max-width:340px;min-width:180px}.search input{width:100%;padding:8px 12px;border-radius:8px;border:0;font:15px system-ui,Segoe UI,sans-serif}
 .search .res{position:absolute;top:40px;left:0;right:0;background:#fff;border:1px solid var(--line);border-radius:8px;box-shadow:0 8px 24px #0002;z-index:9;max-height:70vh;overflow:auto;display:none}
 .search .res a{display:block;padding:9px 12px;color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line);font:14px system-ui,Segoe UI,sans-serif}
-.search .res a:hover,.search .res a.on{background:#f3ece0}.search .res small{display:block;color:var(--muted)}.search .res b{color:var(--teal);font-size:11px;text-transform:uppercase;letter-spacing:.5px}
+.search .res a:hover,.search .res a.on{background:#f3ece0}.search .res small{display:block;color:var(--muted)}.search .res b{color:var(--teal);font-size:11px;text-transform:uppercase;letter-spacing:.5px;margin-right:6px}
 footer{border-top:1px solid var(--line);margin-top:50px;padding:24px 20px;text-align:center;color:var(--muted);font-family:system-ui,Segoe UI,sans-serif;font-size:13px}
