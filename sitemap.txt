@@ -1,5 +1,8 @@
 https://tidydeskstudio.github.io/
 https://tidydeskstudio.github.io/templates/
+https://tidydeskstudio.github.io/posts/track-photography-bookings-deposits-deliveries/
+https://tidydeskstudio.github.io/posts/track-pet-sitting-visits-payments/
+https://tidydeskstudio.github.io/posts/track-personal-training-sessions-packages/
 https://tidydeskstudio.github.io/posts/track-vacation-rental-bookings-expenses-profit/
 https://tidydeskstudio.github.io/posts/track-tutoring-lessons-payments/
 https://tidydeskstudio.github.io/posts/track-grant-deadlines-reporting-dates/
