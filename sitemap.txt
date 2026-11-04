@@ -38,6 +38,9 @@ https://tidydeskstudio.github.io/posts/how-to-price-handmade-products/
 https://tidydeskstudio.github.io/posts/how-to-make-a-holiday-budget/
 https://tidydeskstudio.github.io/posts/how-to-keep-a-mileage-log/
 https://tidydeskstudio.github.io/posts/track-rent-payments-multiple-tenants/
+https://tidydeskstudio.github.io/templates/personal-chef-meal-prep-client-menu-grocery-tracker/
+https://tidydeskstudio.github.io/templates/house-hunting-comparison-viewing-scorecard/
+https://tidydeskstudio.github.io/templates/freelance-hourly-rate-project-price-calculator/
 https://tidydeskstudio.github.io/templates/rental-turnover-cleaning-pay-tracker/
 https://tidydeskstudio.github.io/templates/home-utility-bills-energy-tracker/
 https://tidydeskstudio.github.io/templates/annual-budget-money-goals-planner/
