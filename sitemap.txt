@@ -51,6 +51,7 @@ https://tidydeskstudio.github.io/templates/personal-chef-meal-prep-client-menu-g
 https://tidydeskstudio.github.io/templates/house-hunting-comparison-viewing-scorecard/
 https://tidydeskstudio.github.io/templates/freelance-hourly-rate-project-price-calculator/
 https://tidydeskstudio.github.io/templates/rental-turnover-cleaning-pay-tracker/
+https://tidydeskstudio.github.io/templates/car-comparison-total-cost-calculator/
 https://tidydeskstudio.github.io/templates/home-utility-bills-energy-tracker/
 https://tidydeskstudio.github.io/templates/annual-budget-money-goals-planner/
 https://tidydeskstudio.github.io/templates/small-business-cash-flow-forecast/
